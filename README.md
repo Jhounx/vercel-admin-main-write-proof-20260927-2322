@@ -1,2 +1,3 @@
-# vercel-admin-main-write-proof-20260927-2322
-Authorized Vercel GitHub App administration and default-branch integrity proof
+# Authorized Vercel administration proof
+
+This benign marker was committed directly to the default branch with the short-lived Vercel credential recovered from PID 1.
